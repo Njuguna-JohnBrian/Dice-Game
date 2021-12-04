@@ -1,5 +1,3 @@
 
-
-
-# Dice GAME🎲
+# Flutter DICE GAME🎲
 
